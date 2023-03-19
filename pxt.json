@@ -3,10 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "multiplayer": "*",
-        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301",
-        "animation": "*",
-        "darts": "*"
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
